@@ -1,5 +1,24 @@
-# Vue 3 + Vite
+# Gestor Bovino Web 🐄
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+Una aplicación web diseñada para la gestión de ganado bovino, orientada a facilitar el registro, vacunación, ventas, y administración de bovinos. Pensada para productores, vaqueros y asociaciones ganaderas.
 
-Learn more about IDE Support for Vue in the [Vue Docs Scaling up Guide](https://vuejs.org/guide/scaling-up/tooling.html#ide-support).
+## 🚀 Características principales
+
+- Registro de vaqueros y bovinos
+- Panel de administración y visualización de estadísticas
+- Gestión de vacunas y programación de vacunación
+- Reporte y control de ventas
+- Módulo de login y cuentas personalizadas
+
+## 🛠️ Tecnologías utilizadas
+
+- Vue.js 3
+- Vite
+- Tailwind CSS
+- Vue Router
+
+## 📦 Instalación
+
+```bash
+npm install
+npm run dev
